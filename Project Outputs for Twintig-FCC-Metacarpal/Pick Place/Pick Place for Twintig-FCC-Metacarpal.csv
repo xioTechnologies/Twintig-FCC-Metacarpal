@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-FCC-Metacarpal\Project Outputs for Twintig-FCC-Metacarpal\Pick Place\Pick Place for Twintig-FCC-Metacarpal.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/02/25
+Time:       15:36
+Revision:   aef1f7c4f02a01449ca463ab5d752bb8c144a580
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"J1","1.5000mm","3.5000mm","TopLayer","90","Molex 502430-2030"
+"J2","13.5000mm","3.5000mm","TopLayer","90","Molex 502430-2030"
